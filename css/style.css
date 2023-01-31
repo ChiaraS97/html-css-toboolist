@@ -27,17 +27,15 @@ main {
     
 }
 
-.add {
-   
 
-}
 
 main button {
     margin: 10px;
-    border-radius: 25px;
+    border-radius: 5px;
     width: 100px;
     height: 30px;
     line-height: 10px;
+    cursor: pointer;
 }
 
 .button1 {

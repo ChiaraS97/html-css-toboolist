@@ -51,16 +51,18 @@ main button {
 
 
 .list {
-   
+   padding-top: 20px;
     margin: 2px;
 }
 
 ul {
     list-style: none;
+    margin-left: 50px;
 }
 
+
 .nobox {
-    margin-bottom: 100px;
+    margin: 10px 0 10px;
 }
 
 .task {

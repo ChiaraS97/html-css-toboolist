@@ -22,7 +22,7 @@ h1 {
 }
 
 main {
-    width: 1100px;
+    width: 900px;
     margin: 40px auto;
     
 }
@@ -51,11 +51,16 @@ main button {
 
 
 .list {
-    margin: 20px 43px;
+   
+    margin: 2px;
 }
 
 ul {
     list-style: none;
+}
+
+.nobox {
+    margin-bottom: 100px;
 }
 
 .task {
@@ -67,6 +72,18 @@ ul {
     width: 20px;
     color: green;
     border: 1px solid green;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 20px;
+    margin-right: 5px;
+}
+
+.cross {
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    color: red;
+    border: 1px solid red;
     border-radius: 50%;
     text-align: center;
     line-height: 20px;
@@ -135,5 +152,9 @@ ul {
 
 .bg-pink {
     background-color: #d863a1;
+}
+
+.bg-limegreen {
+    background-color: #b0c926;
 }
 

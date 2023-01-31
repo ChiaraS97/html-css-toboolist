@@ -65,9 +65,7 @@ ul {
     margin: 10px 0 10px;
 }
 
-.task {
-    margin-bottom: 10px;
-}
+
 .check {
     display: inline-block;
     height: 20px;
@@ -98,18 +96,12 @@ ul {
     border-radius: 50px;
     width: 80px;
     height: 30px;
-    line-height: 10px;
-    vertical-align: middle;
-}
-
-.smalltext {
-    height: 30px;
-    font-size: 13px;
-    line-height: 30px;
     text-align: center;
-    padding-left: 15px;
-    
-   
+    color: white;
+    font-size: 12px;
+    line-height: 10px;
+    padding-top: 10px;
+    vertical-align: middle;
 }
     
 

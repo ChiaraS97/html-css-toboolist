@@ -1,5 +1,33 @@
-* {
-    margin: 0;
+* { margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    height: 80px;
+}
+
+header img {
+    margin-left: 15px;
+    vertical-align: middle;
+    
+}
+
+h1 {
+    
+    font-size: 40px;
+    display: inline-block;
+}
+
+
+
+/* utility */
+
+.bg-white {
+    background-color: white;
+}
+
+.bg-grey {
+    background-color: #f6f8f9;
 }
